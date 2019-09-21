@@ -1,0 +1,25 @@
+{
+  "name": "cypress-calendar-holidays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhshahabipour/cypress-calendar-holidays.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Muhammad Shahabipour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhshahabipour/cypress-calendar-holidays/issues"
+  },
+  "homepage": "https://github.com/muhshahabipour/cypress-calendar-holidays#readme",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  }
+}
